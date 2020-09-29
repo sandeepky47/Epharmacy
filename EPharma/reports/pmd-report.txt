@@ -1,0 +1,208 @@
+src/main/java/com/spring/epharma/EPharmaApplication.java:7:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/EPharmaApplication.java:7:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/EPharmaApplication.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/spring/epharma/EPharmaApplication.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/spring/epharma/EPharmaApplication.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/EPharmaApplication.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/EPharmaApplication.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/spring/epharma/EPharmaApplication.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/spring/epharma/controller/MedicineController.java:26:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/spring/epharma/controller/MedicineController.java:26:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/spring/epharma/controller/MedicineController.java:26:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:26:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/spring/epharma/controller/MedicineController.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/spring/epharma/controller/MedicineController.java:29:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:29:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:40:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:40:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:61:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:61:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:67:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:67:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:78:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/controller/MedicineController.java:78:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:10:	UnusedImports: Avoid unused imports such as 'org.springframework.jdbc.core.BeanPropertyRowMapper'
+src/main/java/com/spring/epharma/dao/MedicineDao.java:10:	UnusedImports: Avoid unused imports such as 'org.springframework.jdbc.core.BeanPropertyRowMapper'
+src/main/java/com/spring/epharma/dao/MedicineDao.java:18:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:18:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/spring/epharma/dao/MedicineDao.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/spring/epharma/dao/MedicineDao.java:20:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:20:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:20:	ImmutableField: Private field 'jdbcTemplate' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/spring/epharma/dao/MedicineDao.java:20:	ImmutableField: Private field 'jdbcTemplate' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/spring/epharma/dao/MedicineDao.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:22:	MethodArgumentCouldBeFinal: Parameter 'dataSource' is not assigned and could be declared final
+src/main/java/com/spring/epharma/dao/MedicineDao.java:22:	MethodArgumentCouldBeFinal: Parameter 'dataSource' is not assigned and could be declared final
+src/main/java/com/spring/epharma/dao/MedicineDao.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/spring/epharma/dao/MedicineDao.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/spring/epharma/dao/MedicineDao.java:26:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:26:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:26:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/main/java/com/spring/epharma/dao/MedicineDao.java:26:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/main/java/com/spring/epharma/dao/MedicineDao.java:26:	SingularField: Perhaps 'list' could be replaced by a local variable.
+src/main/java/com/spring/epharma/dao/MedicineDao.java:26:	SingularField: Perhaps 'list' could be replaced by a local variable.
+src/main/java/com/spring/epharma/dao/MedicineDao.java:28:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:28:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:28:	MethodArgumentCouldBeFinal: Parameter 'd1' is not assigned and could be declared final
+src/main/java/com/spring/epharma/dao/MedicineDao.java:28:	MethodArgumentCouldBeFinal: Parameter 'd1' is not assigned and could be declared final
+src/main/java/com/spring/epharma/dao/MedicineDao.java:28:	ShortVariable: Avoid variables with short names like d1
+src/main/java/com/spring/epharma/dao/MedicineDao.java:28:	ShortVariable: Avoid variables with short names like d1
+src/main/java/com/spring/epharma/dao/MedicineDao.java:29:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/spring/epharma/dao/MedicineDao.java:29:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/spring/epharma/dao/MedicineDao.java:30:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/main/java/com/spring/epharma/dao/MedicineDao.java:30:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/main/java/com/spring/epharma/dao/MedicineDao.java:43:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:43:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/dao/MedicineDao.java:43:	MethodArgumentCouldBeFinal: Parameter 'medicine' is not assigned and could be declared final
+src/main/java/com/spring/epharma/dao/MedicineDao.java:43:	MethodArgumentCouldBeFinal: Parameter 'medicine' is not assigned and could be declared final
+src/main/java/com/spring/epharma/dao/MedicineDao.java:45:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/main/java/com/spring/epharma/dao/MedicineDao.java:45:	LocalVariableCouldBeFinal: Local variable 'query' could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:11:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:11:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:11:	DataClass: The class 'Medicine' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=14)
+src/main/java/com/spring/epharma/model/Medicine.java:11:	DataClass: The class 'Medicine' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=14)
+src/main/java/com/spring/epharma/model/Medicine.java:12:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:12:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:14:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:14:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:16:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:16:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:19:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:19:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:22:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:22:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:24:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:24:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:26:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/spring/epharma/model/Medicine.java:26:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/spring/epharma/model/Medicine.java:31:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:31:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/model/Medicine.java:31:	MethodArgumentCouldBeFinal: Parameter 'company' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:31:	MethodArgumentCouldBeFinal: Parameter 'company' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:31:	MethodArgumentCouldBeFinal: Parameter 'medicineId' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:31:	MethodArgumentCouldBeFinal: Parameter 'medicineId' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:31:	MethodArgumentCouldBeFinal: Parameter 'medicineName' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:31:	MethodArgumentCouldBeFinal: Parameter 'medicineName' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:32:	MethodArgumentCouldBeFinal: Parameter 'expireDate' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:32:	MethodArgumentCouldBeFinal: Parameter 'expireDate' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:32:	MethodArgumentCouldBeFinal: Parameter 'manufactureDate' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:32:	MethodArgumentCouldBeFinal: Parameter 'manufactureDate' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:33:	MethodArgumentCouldBeFinal: Parameter 'amount' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:33:	MethodArgumentCouldBeFinal: Parameter 'amount' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:47:	MethodArgumentCouldBeFinal: Parameter 'medicineId' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:47:	MethodArgumentCouldBeFinal: Parameter 'medicineId' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:53:	MethodArgumentCouldBeFinal: Parameter 'medicineName' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:53:	MethodArgumentCouldBeFinal: Parameter 'medicineName' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:59:	MethodArgumentCouldBeFinal: Parameter 'company' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:59:	MethodArgumentCouldBeFinal: Parameter 'company' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:65:	MethodArgumentCouldBeFinal: Parameter 'manufactureDate' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:65:	MethodArgumentCouldBeFinal: Parameter 'manufactureDate' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:71:	MethodArgumentCouldBeFinal: Parameter 'expireDate' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:71:	MethodArgumentCouldBeFinal: Parameter 'expireDate' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:77:	MethodArgumentCouldBeFinal: Parameter 'amount' is not assigned and could be declared final
+src/main/java/com/spring/epharma/model/Medicine.java:77:	MethodArgumentCouldBeFinal: Parameter 'amount' is not assigned and could be declared final
+src/main/java/com/spring/epharma/service/MedicineService.java:8:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/service/MedicineService.java:8:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/service/MedicineService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/service/MedicineService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/service/MedicineService.java:10:	ShortVariable: Avoid variables with short names like d1
+src/main/java/com/spring/epharma/service/MedicineService.java:10:	ShortVariable: Avoid variables with short names like d1
+src/main/java/com/spring/epharma/service/MedicineService.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/service/MedicineService.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:13:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:13:	CommentRequired: Class comments are required
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:16:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:16:	CommentRequired: Field comments are required
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:19:	MethodArgumentCouldBeFinal: Parameter 'd1' is not assigned and could be declared final
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:19:	MethodArgumentCouldBeFinal: Parameter 'd1' is not assigned and could be declared final
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:19:	ShortVariable: Avoid variables with short names like d1
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:19:	ShortVariable: Avoid variables with short names like d1
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:26:	MethodArgumentCouldBeFinal: Parameter 'medicine' is not assigned and could be declared final
+src/main/java/com/spring/epharma/service/MedicineServiceImp.java:26:	MethodArgumentCouldBeFinal: Parameter 'medicine' is not assigned and could be declared final
+src/test/java/com/spring/epharma/EPharmaApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/spring/epharma/EPharmaApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/spring/epharma/EPharmaApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/spring/epharma/EPharmaApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/spring/epharma/EPharmaApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/spring/epharma/EPharmaApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/spring/epharma/EPharmaApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/spring/epharma/EPharmaApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/spring/epharma/EPharmaApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/spring/epharma/EPharmaApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:1:	TooManyStaticImports: Too many static imports may lead to messy code
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:1:	TooManyStaticImports: Too many static imports may lead to messy code
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:3:	UnusedImports: Avoid unused imports such as 'org.junit.Assert'
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:3:	UnusedImports: Avoid unused imports such as 'org.junit.Assert'
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:23:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:23:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:23:	CommentRequired: Class comments are required
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:23:	CommentRequired: Class comments are required
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:26:	CommentRequired: Field comments are required
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:26:	CommentRequired: Field comments are required
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:29:	CommentRequired: Field comments are required
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:29:	CommentRequired: Field comments are required
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:29:	ImmutableField: Private field 'mediservice' could be made final; it is only initialized in the declaration or constructor.
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:29:	ImmutableField: Private field 'mediservice' could be made final; it is only initialized in the declaration or constructor.
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:32:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:32:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:32:	LinguisticNaming: Linguistics Antipattern - The getter 'getExpiredCustomerTest' should not return void linguistically
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:32:	LinguisticNaming: Linguistics Antipattern - The getter 'getExpiredCustomerTest' should not return void linguistically
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:34:	LocalVariableCouldBeFinal: Local variable 'list' could be declared final
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:34:	LocalVariableCouldBeFinal: Local variable 'list' could be declared final
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:34:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:34:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:36:	AvoidDuplicateLiterals: The String literal "2019-01-23" appears 5 times in this file; the first occurrence is on line 36
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:36:	AvoidDuplicateLiterals: The String literal "2019-01-23" appears 5 times in this file; the first occurrence is on line 36
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:36:	LocalVariableCouldBeFinal: Local variable 'mediOne' could be declared final
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:36:	LocalVariableCouldBeFinal: Local variable 'mediOne' could be declared final
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:37:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:37:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:37:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:37:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:37:	LocalVariableCouldBeFinal: Local variable 'mediTwo' could be declared final
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:37:	LocalVariableCouldBeFinal: Local variable 'mediTwo' could be declared final
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:42:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:42:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:42:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:44:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:44:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:44:	LocalVariableCouldBeFinal: Local variable 'mediList' could be declared final
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:44:	LocalVariableCouldBeFinal: Local variable 'mediList' could be declared final
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:45:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:45:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:45:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:45:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:46:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:46:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:46:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:46:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:52:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:52:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:54:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:54:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:54:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:54:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:54:	LocalVariableCouldBeFinal: Local variable 'medi' could be declared final
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:54:	LocalVariableCouldBeFinal: Local variable 'medi' could be declared final
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/spring/epharma/service/MedicineServiceImpMockitoTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
